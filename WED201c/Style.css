@@ -1,0 +1,31 @@
+.header {
+    font-family: "Times New Roman", serif ;
+    font-size: 300%;
+    color: #ff0000;
+}
+.header2 {
+    font-family: "Times New Roman", serif ;
+    font-size: 150%;
+    color: #ff0000;
+}
+.body {
+    font-family: Aial, serif;
+    font-size: 150%;
+    color: black;
+}
+.paragraph {
+    font-size: 30px;
+    color: #ff2700;
+}
+.img {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.caption {
+    font-size: 80%;
+}
+.footer {
+    font-size: 90%;
+    color: #000;
+}
